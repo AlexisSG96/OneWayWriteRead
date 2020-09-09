@@ -1,0 +1,13 @@
+C:\Users\Valkyrie\source\repos\TCP\Letters\bin\Debug\netcoreapp3.1\Letters.exe
+C:\Users\Valkyrie\source\repos\TCP\Letters\bin\Debug\netcoreapp3.1\Letters.deps.json
+C:\Users\Valkyrie\source\repos\TCP\Letters\bin\Debug\netcoreapp3.1\Letters.runtimeconfig.json
+C:\Users\Valkyrie\source\repos\TCP\Letters\bin\Debug\netcoreapp3.1\Letters.runtimeconfig.dev.json
+C:\Users\Valkyrie\source\repos\TCP\Letters\bin\Debug\netcoreapp3.1\Letters.dll
+C:\Users\Valkyrie\source\repos\TCP\Letters\bin\Debug\netcoreapp3.1\Letters.pdb
+C:\Users\Valkyrie\source\repos\TCP\Letters\obj\Debug\netcoreapp3.1\Letters.AssemblyInfoInputs.cache
+C:\Users\Valkyrie\source\repos\TCP\Letters\obj\Debug\netcoreapp3.1\Letters.AssemblyInfo.cs
+C:\Users\Valkyrie\source\repos\TCP\Letters\obj\Debug\netcoreapp3.1\Letters.csproj.CoreCompileInputs.cache
+C:\Users\Valkyrie\source\repos\TCP\Letters\obj\Debug\netcoreapp3.1\Letters.dll
+C:\Users\Valkyrie\source\repos\TCP\Letters\obj\Debug\netcoreapp3.1\Letters.pdb
+C:\Users\Valkyrie\source\repos\TCP\Letters\obj\Debug\netcoreapp3.1\Letters.genruntimeconfig.cache
+C:\Users\Valkyrie\source\repos\TCP\Letters\obj\Debug\netcoreapp3.1\Letters.csprojAssemblyReference.cache

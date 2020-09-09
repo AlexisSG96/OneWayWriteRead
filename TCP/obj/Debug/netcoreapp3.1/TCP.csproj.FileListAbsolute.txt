@@ -1,0 +1,13 @@
+C:\Users\Valkyrie\source\repos\TCP\TCP\bin\Debug\netcoreapp3.1\TCP.exe
+C:\Users\Valkyrie\source\repos\TCP\TCP\bin\Debug\netcoreapp3.1\TCP.deps.json
+C:\Users\Valkyrie\source\repos\TCP\TCP\bin\Debug\netcoreapp3.1\TCP.runtimeconfig.json
+C:\Users\Valkyrie\source\repos\TCP\TCP\bin\Debug\netcoreapp3.1\TCP.runtimeconfig.dev.json
+C:\Users\Valkyrie\source\repos\TCP\TCP\bin\Debug\netcoreapp3.1\TCP.dll
+C:\Users\Valkyrie\source\repos\TCP\TCP\bin\Debug\netcoreapp3.1\TCP.pdb
+C:\Users\Valkyrie\source\repos\TCP\TCP\obj\Debug\netcoreapp3.1\TCP.csprojAssemblyReference.cache
+C:\Users\Valkyrie\source\repos\TCP\TCP\obj\Debug\netcoreapp3.1\TCP.AssemblyInfoInputs.cache
+C:\Users\Valkyrie\source\repos\TCP\TCP\obj\Debug\netcoreapp3.1\TCP.AssemblyInfo.cs
+C:\Users\Valkyrie\source\repos\TCP\TCP\obj\Debug\netcoreapp3.1\TCP.csproj.CoreCompileInputs.cache
+C:\Users\Valkyrie\source\repos\TCP\TCP\obj\Debug\netcoreapp3.1\TCP.dll
+C:\Users\Valkyrie\source\repos\TCP\TCP\obj\Debug\netcoreapp3.1\TCP.pdb
+C:\Users\Valkyrie\source\repos\TCP\TCP\obj\Debug\netcoreapp3.1\TCP.genruntimeconfig.cache

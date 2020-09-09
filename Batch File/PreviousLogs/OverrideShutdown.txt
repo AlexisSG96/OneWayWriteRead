@@ -1,0 +1,4 @@
+@ECHO OFF
+start cmd /k dotnet run --project C:\Users\Valkyrie\source\repos\TCP\TCP\TCP.csproj
+PAUSE
+C:\Users\Valkyrie\source\repos\TCP\TCP
